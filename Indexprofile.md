@@ -19,7 +19,7 @@ Atualmente na faculdade, fiz alguns projetos que combinam minhas habilidades em 
 
 ## Contato
 
-- LinkedIn: [Matheus Raul L Rocha](https://www.linkedin.com/in/matheus-rocha-3a8603216/)
+- LinkedIn: https://www.linkedin.com/in/matheus-rocha-3a8603216/
 - E-mail: matheusrocha0102@hotmail.com
 
 ## Contribuições
